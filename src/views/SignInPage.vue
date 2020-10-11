@@ -5,10 +5,10 @@
 </template>
 
 <script>
-import SignInForm from '@/components/signin-form/signin-form.vue';
+import SignInForm from "@/components/signin-form/signin-form.vue";
 
 export default {
-  name: 'SignInPage',
+  name: "SignInPage",
   components: {
     SignInForm,
   },
